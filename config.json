@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productfpdate",
+        "uuid": 25286688,
+        "checksum": "x61n3"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
